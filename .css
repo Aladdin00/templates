@@ -1,0 +1,24 @@
+.header{
+    background-color: #b5caee;
+    background-image:url(hero-bg.jpg);
+    background-size: cover;
+    color: white;
+    font-family: cursive;
+
+}
+.welcome{
+    text-align: justify;
+}
+nav{
+    display: inline;
+    text-align: justify;
+    color: white;
+}
+li{
+    float:inline-end;
+   word-spacing: normal;
+    
+}
+h1>p{
+    text-align: center;
+}
